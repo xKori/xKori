@@ -7,7 +7,7 @@
 <li><a href="https://github.com/xKori/ActiveDirectoryLab/tree/main">Windows Server + Active Directory Homelab</a></li>
 </ul>
 
-<h2>👨‍💻 Learning</h2>
+<h2>📚 Learning Logs</h2>
 <ul>
 <li><a href="https://github.com/xKori/LinuxLearning">Linux Learning Log</a></li>
 <li><a href="https://github.com/xKori/NetworkingLearning">Networking Learning Log</a></li>
