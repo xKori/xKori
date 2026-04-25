@@ -9,6 +9,6 @@
 
 <h2>📚 Learning Logs</h2>
 <ul>
-<li><a href="https://github.com/xKori/LinuxLearning">Linux Learning Log</a></li>
-<li><a href="https://github.com/xKori/NetworkingLearning">Networking Learning Log</a></li>
+<li><a href="https://github.com/xKori/LinuxLearning">Linux</a></li>
+<li><a href="https://github.com/xKori/NetworkingLearning">Networking</a></li>
 </ul>
